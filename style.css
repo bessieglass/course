@@ -1,0 +1,22 @@
+
+body {
+background-color: lightblue;
+color: #fff; }
+
+.first {
+   border: 1px solid black;
+   margin-bottom: 50px;
+   padding: 20px;
+ 
+}
+.second {
+  border: 1px solid black;
+  margin-bottom: 50px;
+  padding: 20px;
+
+}
+.third {
+	border: 1px solid red;
+	padding: 20px;
+
+}
